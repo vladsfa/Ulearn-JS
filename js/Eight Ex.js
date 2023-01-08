@@ -28,27 +28,3 @@ function getCoupeNumber(n) {
         return "Ошибка. Проверьте правильность введенного номера места";
     }
 }
-
-calculateVolumeAndArea(5) 
-
-calculateVolumeAndArea(15)  
-
-calculateVolumeAndArea(15.5)  
-
-calculateVolumeAndArea('15') 
-
-calculateVolumeAndArea(-15)
-
-getCoupeNumber(33) 
-
-getCoupeNumber(7)  
-
-getCoupeNumber(300) 
-
-getCoupeNumber(0)  
-
-getCoupeNumber(7.7)  
-
-getCoupeNumber(-10)  
-
-getCoupeNumber('Hello')  
